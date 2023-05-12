@@ -5,3 +5,5 @@ PyMySQL==1.0.3
 sqlparse==0.4.4
 tzdata==2023.3
 gunicorn==20.0.4
+Pillow==9.1.0
+psycopg2-binary==2.9.1
