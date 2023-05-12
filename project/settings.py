@@ -80,10 +80,10 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         #'NAME': BASE_DIR / 'db.sqlite3',
         'NAME': 'sistema',
-        'HOST': 'localhost',
+        'HOST': 'containers-us-west-184.railway.app',
         'USER': 'root',
-        'PASSWORD': '',
-        'PORT': '3306',
+        'PASSWORD': 'Ni95nWD47RvBisPHJn5r',
+        'PORT': '6929',
         'OPTIONS': {
             'init_command': 'SET default_storage_engine=InnoDB'
         }
